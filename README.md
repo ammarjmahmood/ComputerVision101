@@ -1,4 +1,3 @@
----
 
 # **Computer Vision 101 Workshop**  
 *A practical workshop on object detection using YOLOv8 and computer vision fundamentals.*

@@ -1,5 +1,3 @@
-Here's a properly formatted `README.md` for your GitHub repository:
-
 ---
 
 # **Computer Vision 101 Workshop**  

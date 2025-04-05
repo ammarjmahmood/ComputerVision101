@@ -1,6 +1,9 @@
-
 # **Computer Vision 101 Workshop**  
 *A practical workshop on object detection using YOLOv8 and computer vision fundamentals.*
+
+<p align="center">
+  <img src="figure5.png" alt="Student in workshop with successful custom candy detection model">
+</p>
 
 ## 📌 Overview
 
@@ -172,7 +175,7 @@ python object_detection.py
   ```
 
 ⚠️ **Webcam Issues**  
-- If your webcam isn’t detected, change the device index:  
+- If your webcam isn't detected, change the device index:  
   ```python
   cv2.VideoCapture(0)  # Try changing 0 to 1 or 2
   ```
